@@ -1,0 +1,34 @@
+question,answer
+ Im unable to log in?,"This is easily fixed – Make sure you haven’t overlooked anything (is the caps lock key on perhaps?).
+
+Your password may have expired, or your account may have been locked due to too many unsuccessful login attempts.
+
+Your IT Support team should be able to reinstate any user rights or reset your password."
+ got the dreaded blue screen of death?,"Simply rebooting can fix the blue screen of death (or STOP error, as it is otherwise known).
+
+This problem is usually related to hardware or a driver that is not working correctly. It usually happens after you install a new piece of hardware or update some drivers.
+
+It’s helpful to tell your IT support helpdesk what you did just before the error occurred, then they can undo it or diagnose the problem."
+I deleted some important files,"The first step is to check the recycle bin. If that fails, your IT Support partner can help you."
+I just closed my document without saving?,"This is a common occurrence and can often send users into panic mode when they accidentally do it.
+
+However, all your work is not definitely lost. If you have Auto-Recover options enabled in Microsoft Office, then there are some easy steps to recover your work.
+
+If not, you can also search for Word backup files by clicking “open”, “computer” and then browsing to the folder where the file was last saved.
+
+You may also be able to find your file by performing a search on your computer for temporary files with a .tmp file extension or a ~ prefix."
+My computer is running too slowly,"This could be a simple fix – Are you running multiple programs at once? Scheduled system scans or updates can also cause slow performance. A good IT Support partner will handle all of your scans and updates for you automatically, outside office hours.
+
+The slowness could be caused by viruses and malware. In that case, disconnect from any networks and let your IT helpdesk deal with it."
+My computer just shut down unexpectedly,"This could be related to overheating. Check your computer for dust, and make sure it is in a cool and ventilated place. If this is not the issue, then it is likely a virus problem. Disconnect the PC from any networks and call your IT Support experts!"
+I can’t print anything,"Get the obvious solutions out of the way first. Check the printer is turned on, has paper, has ink/toner, paper in the correct tray etc.
+
+If it’s not an obvious issue, there may be a connection problem – the printer is probably not connected to the network properly, so call your IT Support helpdesk for help"
+My internet is really slow,"If you’re connecting wirelessly, then the location may be the problem. The signal is not necessarily strong in all corners of the building. Similarly, you could just be too far away. If this is not the issue, then spyware or viruses are a likely cause"
+I keep losing access to the wireless network,This could be due to an overloaded router. Call your IT support team and explain the problem. They may need you to try connecting to the network with another device
+My computer does not recognise my USB device?,"First things to check are:
+
+Does the device work in a different USB port on the machine?
+Are other devices recognised in that port?
+Does the device work on another user’s machine?
+If you have tried these troubleshooting methods and still no luck, then your IT support help-desk can proceed with some more in-depth troubleshooting."
